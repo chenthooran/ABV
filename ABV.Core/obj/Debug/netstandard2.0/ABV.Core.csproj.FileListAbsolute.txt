@@ -1,0 +1,11 @@
+E:\Projects\spawithdotnetcore\ABV.Core\bin\Debug\netstandard2.0\ABV.Core.deps.json
+E:\Projects\spawithdotnetcore\ABV.Core\bin\Debug\netstandard2.0\ABV.Core.dll
+E:\Projects\spawithdotnetcore\ABV.Core\bin\Debug\netstandard2.0\ABV.Core.pdb
+E:\Projects\spawithdotnetcore\ABV.Core\bin\Debug\netstandard2.0\ABV.Domain.dll
+E:\Projects\spawithdotnetcore\ABV.Core\bin\Debug\netstandard2.0\ABV.Domain.pdb
+E:\Projects\spawithdotnetcore\ABV.Core\obj\Debug\netstandard2.0\ABV.Core.csprojResolveAssemblyReference.cache
+E:\Projects\spawithdotnetcore\ABV.Core\obj\Debug\netstandard2.0\ABV.Core.csproj.CoreCompileInputs.cache
+E:\Projects\spawithdotnetcore\ABV.Core\obj\Debug\netstandard2.0\ABV.Core.AssemblyInfoInputs.cache
+E:\Projects\spawithdotnetcore\ABV.Core\obj\Debug\netstandard2.0\ABV.Core.AssemblyInfo.cs
+E:\Projects\spawithdotnetcore\ABV.Core\obj\Debug\netstandard2.0\ABV.Core.dll
+E:\Projects\spawithdotnetcore\ABV.Core\obj\Debug\netstandard2.0\ABV.Core.pdb

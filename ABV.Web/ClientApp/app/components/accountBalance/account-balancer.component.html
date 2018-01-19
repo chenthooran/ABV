@@ -1,0 +1,21 @@
+﻿<h1>Account Balances</h1>
+
+<p>Balances as of {{asOfDate | date}}</p>
+
+<p *ngIf="!accountBalances"><em>Loading...</em></p>
+
+<table class='table' *ngIf="accountBalances">
+    <thead>
+        <tr>
+            <th>Account</th>
+            <th>Balance</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let ab of accountBalances">
+            <td>{{ ab.accountName }}</td>
+            <td>{{ ab.currency }} {{ ab.balance }}</td>
+        </tr>
+    </tbody>
+</table>
+

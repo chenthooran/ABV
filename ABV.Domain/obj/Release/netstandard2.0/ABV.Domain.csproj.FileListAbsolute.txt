@@ -1,0 +1,9 @@
+E:\Projects\spawithdotnetcore\ABV.Domain\bin\Release\netstandard2.0\ABV.Domain.deps.json
+E:\Projects\spawithdotnetcore\ABV.Domain\bin\Release\netstandard2.0\ABV.Domain.dll
+E:\Projects\spawithdotnetcore\ABV.Domain\bin\Release\netstandard2.0\ABV.Domain.pdb
+E:\Projects\spawithdotnetcore\ABV.Domain\obj\Release\netstandard2.0\ABV.Domain.csprojResolveAssemblyReference.cache
+E:\Projects\spawithdotnetcore\ABV.Domain\obj\Release\netstandard2.0\ABV.Domain.csproj.CoreCompileInputs.cache
+E:\Projects\spawithdotnetcore\ABV.Domain\obj\Release\netstandard2.0\ABV.Domain.AssemblyInfoInputs.cache
+E:\Projects\spawithdotnetcore\ABV.Domain\obj\Release\netstandard2.0\ABV.Domain.AssemblyInfo.cs
+E:\Projects\spawithdotnetcore\ABV.Domain\obj\Release\netstandard2.0\ABV.Domain.dll
+E:\Projects\spawithdotnetcore\ABV.Domain\obj\Release\netstandard2.0\ABV.Domain.pdb

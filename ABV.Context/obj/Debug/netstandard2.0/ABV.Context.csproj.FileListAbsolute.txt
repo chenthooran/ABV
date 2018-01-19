@@ -1,0 +1,13 @@
+E:\Projects\spawithdotnetcore\ABV.Context\bin\Debug\netstandard2.0\ABV.Context.deps.json
+E:\Projects\spawithdotnetcore\ABV.Context\bin\Debug\netstandard2.0\ABV.Context.dll
+E:\Projects\spawithdotnetcore\ABV.Context\bin\Debug\netstandard2.0\ABV.Context.pdb
+E:\Projects\spawithdotnetcore\ABV.Context\bin\Debug\netstandard2.0\ABV.Core.dll
+E:\Projects\spawithdotnetcore\ABV.Context\bin\Debug\netstandard2.0\ABV.Domain.dll
+E:\Projects\spawithdotnetcore\ABV.Context\bin\Debug\netstandard2.0\ABV.Core.pdb
+E:\Projects\spawithdotnetcore\ABV.Context\bin\Debug\netstandard2.0\ABV.Domain.pdb
+E:\Projects\spawithdotnetcore\ABV.Context\obj\Debug\netstandard2.0\ABV.Context.csprojResolveAssemblyReference.cache
+E:\Projects\spawithdotnetcore\ABV.Context\obj\Debug\netstandard2.0\ABV.Context.csproj.CoreCompileInputs.cache
+E:\Projects\spawithdotnetcore\ABV.Context\obj\Debug\netstandard2.0\ABV.Context.AssemblyInfoInputs.cache
+E:\Projects\spawithdotnetcore\ABV.Context\obj\Debug\netstandard2.0\ABV.Context.AssemblyInfo.cs
+E:\Projects\spawithdotnetcore\ABV.Context\obj\Debug\netstandard2.0\ABV.Context.dll
+E:\Projects\spawithdotnetcore\ABV.Context\obj\Debug\netstandard2.0\ABV.Context.pdb

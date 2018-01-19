@@ -1,0 +1,39 @@
+<div class='main-nav' *ngIf="auhenticationService.loggedIn">
+    <div class='navbar navbar-inverse'>
+        <div class='navbar-header'>
+            <button type='button' class='navbar-toggle' data-toggle='collapse' data-target='.navbar-collapse'>
+                <span class='sr-only'>Toggle navigation</span>
+                <span class='icon-bar'></span>
+                <span class='icon-bar'></span>
+                <span class='icon-bar'></span>
+                <span class='icon-bar'></span>
+            </button>
+            <a class='navbar-brand' [routerLink]="['/home']">Account Balance Viewer</a>
+        </div>
+        <div class='clearfix'></div>
+        <div class='navbar-collapse collapse'>
+            <ul class='nav navbar-nav'>              
+                <li [routerLinkActive]="['link-active']">
+                    <a [routerLink]="['/home']">
+                        <span class='glyphicon glyphicon-home'></span> Home
+                    </a>
+                </li>
+                <li [routerLinkActive]="['link-active']" *ngIf="auhenticationService.isAdmin">
+                    <a [routerLink]="['/line-chart']">
+                        <span class='glyphicon glyphicon-piggy-bank'></span> Accounts History
+                    </a>
+                </li>
+                <li [routerLinkActive]="['link-active']" *ngIf="auhenticationService.isAdmin">
+                    <a [routerLink]="['/file-upload']">
+                        <span class='glyphicon glyphicon-upload'></span> Upload Account Balances
+                    </a>
+                </li>
+                <li [routerLinkActive]="['link-active']">
+                    <a [routerLink]="['/login']" (click)="logoutUser()">
+                        <span class='glyphicon glyphicon-log-in'></span> Logout
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,18 @@
+﻿<h1>Login</h1>
+<br/>
+<form (submit)="loginUser()">
+    <div class="form-group">
+        <label>Username</label>
+        <input [(ngModel)]="username" name="username" type="text">
+    </div>
+    <div class="form-group">
+        <label>Password</label>
+        <input [(ngModel)]="password" name="password" type="password">
+    </div>
+    <div class="form-group">
+        <input type="submit" class="btn" value="Login">
+    </div>
+    <div *ngIf="errorMessage!=''" id="error" class="form-group">
+        <label class="alert-danger">{{errorMessage}}</label>
+    </div>
+</form>

@@ -1,0 +1,25 @@
+﻿<h1>Upload Account Balances</h1>
+
+<p>Uploading Accounts balances using a csv file. Filename format should be <strong>ABV_{{ '{MMDDYYYY}' }}.csv</strong></p><br />
+
+<div style="width: 100%;">
+    <form>
+        <div class="form-group">
+            <input type="file" id="selectFile" name="selectFile" accept=".csv" (change)="chooseFile($event.target.value)"/><br/>
+            <input type="button" class="btn btn-primary" (click)="uploadFile()" value="Upload File">
+        </div>
+        <div id="spinner" class="spinner">
+            <img style="width:20px" src="/dist/assets/spinner1.gif"> Uploading File...Please wait.
+        </div>
+        <div *ngIf="errorMessage!=''" id="error" class="form-group">
+            <label class="alert-danger">{{errorMessage}}</label>
+        </div>
+        <div *ngIf="isFileUploaded" id="success" class="form-group">
+            <label class="label-success">File uploaded successfully.</label>
+        </div> 
+    </form>
+    <hr />
+</div>
+
+
+
